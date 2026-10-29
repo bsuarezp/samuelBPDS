@@ -30,7 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - EDWIN RAFAEL CERA ROMERO : Estructura (HTML)
 
 ## INSTITUCIÓN
-CUC
+Universidad de la costa
 
 ## Funcionalidades Principales
 
