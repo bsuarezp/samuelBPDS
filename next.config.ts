@@ -3,7 +3,8 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   output: 'export',
   images: { 
-    unoptimized: true 
+    unoptimized: true
+    assetPrefix: process.env.ASSET_PREFIX || undefined,
   },
 };
 
